@@ -32,14 +32,14 @@ languages:   [Spanish, Catalan, English, Filipino, French]
 
 ---
 
-### 🚀 Currently building
+### 🚀 Selected projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 #### 🧠 [Pulse_AI](https://github.com/JericoNeil/Pulse_AI)
-AI-powered **financial sentiment dashboard** built with Streamlit. Scrapes 250k+ articles and runs Random Forest, XGBoost and Logistic Regression to predict S&P 500 movements. Originally built and presented to the **European Investment Bank** at HQ in Luxembourg.
+**Financial sentiment monitoring dashboard** built as a Streamlit app. Wraps an NLP + ML pipeline (Random Forest, XGBoost, Logistic Regression) trained on 250k+ scraped articles to surface market-moving signals on the S&P 500.
 
 `Python` `Scikit-learn` `Streamlit` `NLP`
 
